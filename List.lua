@@ -31,5 +31,3 @@ Smooth Plastic
 Snow
 Wood
 Wood Planks
-
--- credits to farzad lol
